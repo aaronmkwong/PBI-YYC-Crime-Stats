@@ -14,17 +14,17 @@ There are 3 sections of the dashboard. The first section summarizes, geographica
 
 **Chart Measures**
 
-![alt text](https://github.com/aaronmkwong/PBI-YYC-Crime-Stats/blob/main/PBY_YYC_Crime_Stats_2.JPG)
+![alt text](https://github.com/aaronmkwong/PBI-YYC-Crime-Stats/blob/main/PBY_YYC_Crime_Stats_1.JPG)
 
 **Chart Dimensions**
 
-![alt text](https://github.com/aaronmkwong/PBI-YYC-Crime-Stats/blob/main/PBY_YYC_Crime_Stats_3.JPG)
+![alt text](https://github.com/aaronmkwong/PBI-YYC-Crime-Stats/blob/main/PBY_YYC_Crime_Stats_2.JPG)
 
 **Interactivity**
 
 There are 5 interactive elements in the dashboard. The first section contains 4 interactive elements: a year filter that interacts with the bar chart and table within the first section; the bar chart filters the table and map within the first section as well as the line and waterfall charts in the second and third sections; the table filters the bar chart and map within the first section as well as the line and waterfall charts in the second and third sections; there is also a reset button that clears the year filter and any contexts established through the interactions. The fifth interactive element is located at the top right and is available for the user to understand in brief how to navigate the dashboard. 
 
-![alt text](https://github.com/aaronmkwong/PBI-YYC-Crime-Stats/blob/main/PBY_YYC_Crime_Stats_4.JPG)
+![alt text](https://github.com/aaronmkwong/PBI-YYC-Crime-Stats/blob/main/PBY_YYC_Crime_Stats_3.JPG)
 
 **Data Sources**
 
